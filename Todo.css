@@ -1,0 +1,23 @@
+.btn-1{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ ul li{
+    list-style: none;   
+    padding-block: 10px;
+    background-color: gainsboro;
+}
+ul li:hover{
+    background-color: grey;
+}
+ul li.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+  }
+  
